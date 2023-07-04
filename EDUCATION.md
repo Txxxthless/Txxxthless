@@ -1,4 +1,3 @@
 # Education
 
-- Kiev Polytechnic Institute
-- Metarhia free educational program
+- Oles Honchar Dnipro National University
