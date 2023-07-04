@@ -1,12 +1,11 @@
-<code>🎓 Student: KPI / IM-11</code>
-<code>⚪ Community: Metarhia</code>
-<code>👷 Speciality: Software engineer / Backend</code><br>
+## Hello ✌
+My name is Pavlo and I am a student from Ukraine. I enjoy learning and developing applications.
+
+<code>🎓 Student </code>
+<code>👷 Speciality: Software engineer / Backend / Frontend</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
-<code>📢 [Public talks: 0](TALKS.md)</code>
-<code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
-<code>🧑‍💻 Languages: JavaScript, C++</code>
-<code>📦 Tech stack: node.js</code>
-<code>🪙 [Rates](RATES.md)</code><br>
-<code>💬 telegram: [@your-nikname](https://telegram.me/your-nikname)</code>
-<code>📫 [your-email](mailto:your-email)</code>
+<code>🧑‍💻 Languages: C#, JavaScript, TypeScript</code>
+<code>📦 Tech stack: C# .NET, ASP.NET, React, Angular, Express</code>
+<code>💬 telegram: [@pavlolieshchov](https://t.me/pavlolieshchov)</code>
+<code>📫 [lieshchov.pavlo@gmail.com](mailto:lieshchov.pavlo@gmail.com)</code>
